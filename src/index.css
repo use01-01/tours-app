@@ -1,0 +1,25 @@
+.buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.buttons button {
+  height: 20px;
+}
+
+section {
+  text-align: center;
+}
+
+.button-show {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  color: blue;
+  text-transform: capitalize;
+}
+/*# sourceMappingURL=index.css.map */

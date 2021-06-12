@@ -1,0 +1,19 @@
+.buttons{
+    display: flex;
+    align-items: center;
+    button{
+        height: 20px;
+    }
+}
+
+section{
+    text-align: center;
+}
+
+.button-show{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    color: blue;
+    text-transform: capitalize;
+}
